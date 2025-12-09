@@ -33,3 +33,33 @@ packages/
 # Resharper
 _ReSharper*/
 *.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover
+*.dcvr
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish output
+wwwroot/lib/
+node_modules/
+dist/
+
+# Generated files
+Generated_Code/
+*.g.cs
+*.g.i.cs
+*.Designer.cs
+
+# Backup files
+*.bak
+*.orig
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
