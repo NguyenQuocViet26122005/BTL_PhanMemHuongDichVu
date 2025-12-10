@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "qvWNmnP11cJ8SScjd9IF5kmEXTGDj0sDA/mLBqMK9Xg=",
-  "Source": "BTLWEBAPI",
-  "BasePath": "_content/BTLWEBAPI",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"+5QiI/S8zczogb/7n5biNsdIHHk+Z1ogKDs9N5+wBig=","Source":"BTLWEBAPI","BasePath":"_content/BTLWEBAPI","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTLWEBAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+846df903c375693ff2038e65c00bbb5c3939041e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+104c2137b9c23c70640f7d5744e33960cbfa6d36")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTLWEBAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTLWEBAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

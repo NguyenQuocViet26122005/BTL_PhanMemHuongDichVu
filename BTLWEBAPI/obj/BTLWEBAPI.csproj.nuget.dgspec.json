@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\btlmonapi\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\BTLWEBAPI.csproj": {}
+    "C:\\Users\\acer\\OneDrive\\Máy tính\\api\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\BTLWEBAPI.csproj": {}
   },
   "projects": {
-    "C:\\btlmonapi\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\BTLWEBAPI.csproj": {
+    "C:\\Users\\acer\\OneDrive\\Máy tính\\api\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\BTLWEBAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\btlmonapi\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\BTLWEBAPI.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\OneDrive\\Máy tính\\api\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\BTLWEBAPI.csproj",
         "projectName": "BTLWEBAPI",
-        "projectPath": "C:\\btlmonapi\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\BTLWEBAPI.csproj",
-        "packagesPath": "C:\\Users\\gaung\\.nuget\\packages\\",
-        "outputPath": "C:\\btlmonapi\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\obj\\",
+        "projectPath": "C:\\Users\\acer\\OneDrive\\Máy tính\\api\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\BTLWEBAPI.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acer\\OneDrive\\Máy tính\\api\\BTL_PhanMemHuongDichVu\\BTLWEBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gaung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
