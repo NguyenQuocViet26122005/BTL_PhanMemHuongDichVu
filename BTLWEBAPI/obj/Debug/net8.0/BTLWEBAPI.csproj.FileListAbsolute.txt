@@ -134,3 +134,4 @@ C:\Users\Modern 14\OneDrive\Máy tính\BTLWEBAPI\BTLWEBAPI\obj\Debug\net8.0\refi
 C:\Users\Modern 14\OneDrive\Máy tính\BTLWEBAPI\BTLWEBAPI\obj\Debug\net8.0\BTLWEBAPI.pdb
 C:\Users\Modern 14\OneDrive\Máy tính\BTLWEBAPI\BTLWEBAPI\obj\Debug\net8.0\BTLWEBAPI.genruntimeconfig.cache
 C:\Users\Modern 14\OneDrive\Máy tính\BTLWEBAPI\BTLWEBAPI\obj\Debug\net8.0\ref\BTLWEBAPI.dll
+C:\Users\Modern 14\OneDrive\Máy tính\BTLWEBAPI\BTLWEBAPI\obj\Debug\net8.0\BTLWEBAPI.sourcelink.json
