@@ -15,29 +15,19 @@ public partial class BtlwebapiContext : DbContext
     {
     }
 
-    public virtual DbSet<CongTy> CongTies { get; set; }
+    public virtual DbSet<CongTy> CongTy { get; set; }
+    public virtual DbSet<DonUngTuyen> DonUngTuyen { get; set; }
+    public virtual DbSet<HoSo> HoSo { get; set; }
+    public virtual DbSet<KyNang> KyNang { get; set; }
+    public virtual DbSet<LichSuHeThong> LichSuHeThong { get; set; }
+    public virtual DbSet<NguoiDung> NguoiDung { get; set; }
+    public virtual DbSet<PhongVan> PhongVan { get; set; }
+    public virtual DbSet<Quyen> Quyen { get; set; }
+    public virtual DbSet<ThongBao> ThongBao { get; set; }
+    public virtual DbSet<ThuMoiLamViec> ThuMoiLamViec { get; set; }
+    public virtual DbSet<UngVien> UngVien { get; set; }
+    public virtual DbSet<ViecLam> ViecLam { get; set; }
 
-    public virtual DbSet<DonUngTuyen> DonUngTuyens { get; set; }
-
-    public virtual DbSet<HoSo> HoSos { get; set; }
-
-    public virtual DbSet<KyNang> KyNangs { get; set; }
-
-    public virtual DbSet<LichSuHeThong> LichSuHeThongs { get; set; }
-
-    public virtual DbSet<NguoiDung> NguoiDungs { get; set; }
-
-    public virtual DbSet<PhongVan> PhongVans { get; set; }
-
-    public virtual DbSet<Quyen> Quyens { get; set; }
-
-    public virtual DbSet<ThongBao> ThongBaos { get; set; }
-
-    public virtual DbSet<ThuMoiLamViec> ThuMoiLamViecs { get; set; }
-
-    public virtual DbSet<UngVien> UngViens { get; set; }
-
-    public virtual DbSet<ViecLam> ViecLams { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
